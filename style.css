@@ -11,6 +11,10 @@ h2 {
   font-size: 38px;
 }
 
+p {
+  text-align: justify;
+}
+
 section {
   display: flex;
 }
@@ -21,7 +25,7 @@ section {
 
 .half-width {
   width: 50%;
-  padding-left: 5%;
+  padding: 0 0 5% 5%;
 }
 
 .half-width img {
@@ -40,4 +44,11 @@ section {
 #top-banner {
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
+}
+
+#middle {
+  margin-top: 200px;
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
 }
