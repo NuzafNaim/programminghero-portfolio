@@ -63,9 +63,8 @@ p {
 .ex-left {
   box-shadow: 10px 10px 40px gray;
   width: 50%;
-  margin-left: 5%;
-  margin-right: 5%;
-  padding: 5px;
+  margin-left: 2%;
+  padding: 10px;
   border-radius: 8px;
   border-left: 8px solid red;
 }
@@ -73,9 +72,8 @@ p {
 .ex-right {
   box-shadow: 10px 10px 40px gray;
   width: 50%;
-  margin-left: 5%;
-  margin-right: 5%;
-  padding: 5px;
+  margin-left: 2%;
+  padding: 10px;
   border-radius: 8px;
   border-left: 8px solid blue;
 }
